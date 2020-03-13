@@ -1,0 +1,31 @@
+body {
+    background-image: url('../images/bg-body.png');
+}
+
+img.logo {
+    border-radius: 100%;
+    position: relative;
+    left: 50%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+img.photo {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+article.product.card {
+    background-color: transparent;
+    border: none;
+}
+
+.div.row.position-relative {
+    background-color: black;
+}
